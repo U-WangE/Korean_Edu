@@ -12,3 +12,5 @@ ${\textsf{\color{gray}본 Application에서 표시하고 있는 웹 사이트 �
         영상 제목 클릭시에도 영상 목록이 펼쳐지도록 변경
 
 #### 영상
+
+![KakaoTalk_20250323_165005405](https://github.com/user-attachments/assets/d0fa8086-8286-49a9-9163-b1426a2f0890)
